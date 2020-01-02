@@ -1,5 +1,4 @@
-I am Omkar Bhagwat, architect and computational designer, I#am passionate about programming and has eager to learn more. I'm fascinated by Nature based solutions and want to implicate such strategies in product design and architecture.
-
+I am Omkar Bhagwat, architect and computational designer. Repository  for coding tasks done with Rhino+Gh.
 Feel free to download my code! Will be happy to recieve your comments!
 
 Cheers!
